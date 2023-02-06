@@ -1,1 +1,1 @@
-# auth-console-docs
+# Gamium Docs
